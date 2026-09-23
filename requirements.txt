@@ -1,0 +1,4 @@
+matplotlib>=3.8
+moviepy>=1.0.3,<2
+numpy>=1.26
+Pillow>=10.0
